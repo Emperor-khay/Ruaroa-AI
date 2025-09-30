@@ -298,7 +298,7 @@ Configure your wizard's domain with these mystical environment variables:
 
 ## 👨‍💻 Meet the Wizard
 
-**Developed with ❤️ by [Vimal](https://github.com/vimal)**
+**Developed with ❤️ by [Vimal](https://github.com/vimal0156)**
 
 *Transforming the future of machine learning, one spell at a time.*
 
@@ -364,9 +364,9 @@ This systematic exploration ensures Ruaroa AI discovers high-quality solutions w
 
 **🎥 Watch Ruaroa AI in Action - Full Bitcoin Price Prediction Demo**
 
-[![Ruaroa AI Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](Output/App%20Demo.mp4)
-
-*Experience the complete workflow from data upload to production-ready ML code generation*
+> **📹 Demo Video Available**: [Download App Demo.mp4](Output/App%20Demo.mp4) to watch the complete walkthrough
+> 
+> *Experience the complete workflow from data upload to production-ready ML code generation*
 
 </div>
 
