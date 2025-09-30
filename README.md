@@ -4,9 +4,20 @@
 ### *Zero-Code Machine Learning Wizard*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![PyPI](https://img.shields.io/pypi/v/ruaroa-ai?color=blue&style=for-the-badge)](https://pypi.org/project/ruaroa-ai/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg?style=for-the-badge)](https://www.python.org/downloads/release/python-3100/)
+[![GitHub Stars](https://img.shields.io/github/stars/vimal0156/Ruaroa-AI?style=for-the-badge&logo=github&color=yellow)](https://github.com/vimal0156/Ruaroa-AI/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/vimal0156/Ruaroa-AI?style=for-the-badge&logo=github&color=blue)](https://github.com/vimal0156/Ruaroa-AI/network)
+[![GitHub Issues](https://img.shields.io/github/issues/vimal0156/Ruaroa-AI?style=for-the-badge&logo=github&color=red)](https://github.com/vimal0156/Ruaroa-AI/issues)
+[![GitHub Watchers](https://img.shields.io/github/watchers/vimal0156/Ruaroa-AI?style=for-the-badge&logo=github&color=green)](https://github.com/vimal0156/Ruaroa-AI/watchers)
 [![Demo](https://img.shields.io/badge/🎬_Live_Demo-Available-green?style=for-the-badge)](#-live-demo--visual-walkthrough)
+[![Viral Factor](https://img.shields.io/badge/🔥_Viral_Factor-EXTREME-red?style=for-the-badge)](https://github.com/vimal0156/Ruaroa-AI)
+
+### 📈 **Repository Stats**
+![GitHub repo size](https://img.shields.io/github/repo-size/vimal0156/Ruaroa-AI?style=flat-square)
+![GitHub code size](https://img.shields.io/github/languages/code-size/vimal0156/Ruaroa-AI?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/vimal0156/Ruaroa-AI?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vimal0156/Ruaroa-AI?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/vimal0156/Ruaroa-AI?style=flat-square)
 
 ---
 
